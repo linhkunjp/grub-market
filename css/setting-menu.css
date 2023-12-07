@@ -1,0 +1,17 @@
+.setting-menu {
+    padding: 30px 0 5px;
+}
+
+.setting-item {
+    margin: 10px 8px;
+    border-bottom: 1px solid #ccc;
+    line-height: 3.5;
+}
+
+.setting-item i {
+    font-size: 20px;
+}
+
+.setting-item a:hover {
+    color: #000;
+}

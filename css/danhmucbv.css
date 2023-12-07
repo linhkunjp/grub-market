@@ -1,0 +1,47 @@
+.post {
+    margin-bottom: 40px;
+}
+
+.post_list {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.post_list-item {
+    margin-top: 10px;
+    display: block;
+}
+
+.post_list-img {
+    padding-top: 76%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.post_list-item h4 {
+    font-size: 1.125rem;
+    max-height: 43px;
+    font-weight: 700;
+}
+
+.post_list-title {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: normal;
+    overflow-wrap: break-word;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}
+
+.post-tittle {
+    text-align: center;
+    color: #141416;
+    padding-top: 2rem;
+    font-weight: 500;
+}
+
+.post-content img {
+    max-width: 100%;
+    height: auto !important;
+}
