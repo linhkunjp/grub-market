@@ -1,7 +1,7 @@
 <?php
 include('../config/config.php');
 
-$mysqli = new mysqli("localhost", "root", "", "web_madara");
+$mysqli = new mysqli("localhost", "root", "", "grub_market");
 
 if (isset($_POST['index'])) {
     $index = $_POST['index'];
